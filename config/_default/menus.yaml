@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 4e3b2249-bde5-4d5d-bd66-8c299eba8ba5
+  name: Class Information
+  pageRef: /pages/course-contents
+  weight: 10
+- identifier: 41e75963-926b-4a95-94e5-ad90b4f83211
+  name: Video Training Sessions
+  pageRef: /pages/video-session
+  weight: 20
+- identifier: b86c1b24-2067-4934-8b31-80cfd85fcf93
+  name: Class Handouts By Topic
+  pageRef: /pages/handouts
+  weight: 30
