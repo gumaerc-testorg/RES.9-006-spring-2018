@@ -15,25 +15,25 @@ AFNI=Analysis of Functional NeuroImages
 
 ### Install Unix
 
-[Link to basic Unix tutorial](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/unix_tutorial/index.html)
+{{% resource_link "72bab28b-c720-422e-a6e3-3f454ddd6b54" "Link to basic Unix tutorial" %}}
 
-[Introduction to UNIX handout (PDF)](https://afni.nimh.nih.gov/pub/dist/edu/latest/afni_handouts/afni00_unix.pdf)
+{{% resource_link "697d0c10-cbd2-430f-9834-f2518da45702" "Introduction to UNIX handout (PDF)" %}}
 
 ### Install AFNI
 
-[Instructions for installing the AFNI bootcamp setup on your computer](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html)
+{{% resource_link "5a409c91-9129-478b-834e-27bb75ca84a9" "Instructions for installing the AFNI bootcamp setup on your computer" %}}
 
-[Introduction to AFNI handout (PDF)](https://afni.nimh.nih.gov/pub/dist/edu/latest/afni_handouts/afni01_intro.pdf)
+{{% resource_link "284a0314-41e0-4cb7-8c38-77c6b6414d5f" "Introduction to AFNI handout (PDF)" %}}
 
 In order to obtain a basic check of AFNI, open a Terminal or X-Quartz/X-11 window. At the prompt, please enter:
 
 - afni\_system\_check.py -check\_all > out.system\_check.txt
 - then mail this text file (out.system\_check.txt) to the AFNI team: [afni.bootcamp@gmail.com](mailto:afni.bootcamp@gmail.com).
 - Please direct any laptop setup questions to the same email address: [afni.bootcamp@gmail.com](mailto:afni.bootcamp@gmail.com).
-- For general questions about AFNI, please see [the AFNI Message Board](https://afni.nimh.nih.gov/afni/community/board). 
+- For general questions about AFNI, please see {{% resource_link "06f13d0c-6a4d-4adb-94c4-fbdafbd879b2" "the AFNI Message Board" %}}. 
 
 ## Class Materials
 
-Go to the {{% resource_link "b86c1b24-2067-4934-8b31-80cfd85fcf93" "class handouts by topic" %}} page on this site for links to the materials. You can also visit the NIMH website for the latest [AFNI handouts](https://afni.nimh.nih.gov/pub/dist/edu/latest/afni_handouts/), or this slightly prettier subset of the [class handouts](https://afni.nimh.nih.gov/Class_handouts).
+Go to the {{% resource_link "b86c1b24-2067-4934-8b31-80cfd85fcf93" "class handouts by topic" %}} page on this site for links to the materials. You can also visit the NIMH website for the latest {{% resource_link "b51c96b7-f3bd-4cd4-a140-66cc68b39d2d" "AFNI handouts" %}}, or this slightly prettier subset of the {{% resource_link "f6cfd7a0-4eba-49cd-a7b1-b528b857c1e8" "class handouts" %}}.
 
-[Complete AFNI documentation on the NIMH website](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
+{{% resource_link "a4d5088c-b67c-402d-8597-2d08d63fad43" "Complete AFNI documentation on the NIMH website" %}}
