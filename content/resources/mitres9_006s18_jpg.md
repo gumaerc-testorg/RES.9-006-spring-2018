@@ -10,8 +10,8 @@ image_metadata:
     characterize how activity in the brain relates to specific functions. The side-by-side
     images of the brain show activity in relation to the consumption of glucose, which
     could be useful in understanding how the brain uses energy both in health and
-    disease. (Image is in the public domain. Source: {{% resource_link "19eecf89-e630-4201-9017-447e8e2fdd76"
-    "NIH Image Gallery" %}} on Flickr.)'
+    disease. (Image is in the public domain. Source: [NIH Image Gallery](https://www.flickr.com/photos/nihgov/46586899454/)
+    on Flickr.)'
   credit: ''
   image-alt: Multi-color images of two slices of the human brain.
 learning_resource_types: []
