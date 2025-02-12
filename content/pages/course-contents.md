@@ -15,7 +15,7 @@ AFNI=Analysis of Functional NeuroImages
 
 ### Install Unix
 
-[Link to basic Unix tutorial](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/unix_tutorial/index.html)
+[Link to basic Unix tutorial](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/educational/unix_tutorial/index.html#)
 
 [Introduction to UNIX handout (PDF)](https://afni.nimh.nih.gov/pub/dist/edu/latest/afni_handouts/afni00_unix.pdf)
 
