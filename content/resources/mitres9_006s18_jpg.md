@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/afni-training-bootcamp/mitres9_006s18.jpg
+file: /ol-ocw-studio-app/courses/res-9-006-afni-training-bootcamp-spring-2018/mitres9_006s18.jpg
 file_size: 84876
 file_type: image/jpeg
 image_metadata:
